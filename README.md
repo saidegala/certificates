@@ -1,2 +1,2 @@
 # certificates
-[![MasterHead](https://drive.google.com/drive/folders/1SuMtQZwZL8TXKBIuMZNRhK7tChvrkIet)](https://codegrills.in)
+[![MasterHead](https://drive.google.com/drive/folders/1SuMtQZwZL8TXKBIuMZNRhK7tChvrkIet)](https://drive.google.com/drive/folders/1SuMtQZwZL8TXKBIuMZNRhK7tChvrkIet)
