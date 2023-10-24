@@ -10,15 +10,15 @@ Welcome to my GitHub repository! This repository contains images of the followin
 
 ![Page 1 of 69919675332012.pdf](https://github.com/saidegala/certificates/blob/main/69919675332012-page-001.jpg)
 
-![Page 1 of AWS.pdf](https://github.com/saidegala/certificates/blob/main/AWS-page-001.jpg)
+![Page 1 of AWS.pdf](https://github.com/saidegala/certificates/blob/main/NAGA%20SAI%20SABARINDEGALA-INTRODUCTION%20TO%20-certificate.pdf)
 
-![Page 1 of DATA SCIENCE.pdf](https://github.com/saidegala/certificates/blob/main/DATA%20SCIENCE-page-001.jpg)
+![Page 1 of DATA SCIENCE.pdf](https://github.com/saidegala/certificates/blob/main/DATA%20SCIENCE.pdf)
 
 ![Data Analytics with Python](https://github.com/saidegala/certificates/blob/main/Data%20Analytics%20with%20Python%20nptel.jpg)
 
-![C Programming certificate](https://github.com/saidegala/certificates/blob/main/NAGA%20SAI%20SABARINDEGALA-C%20Programming%20fo-certificate.jpg)
+![C Programming certificate](https://github.com/saidegala/certificates/blob/main/NAGA%20SAI%20SABARINDEGALA-C%20Programming%20fo-certificate.pdf)
 
-![Cyber Security certificate](https://github.com/saidegala/certificates/blob/main/NAGA%20SAI%20SABARINDEGALA-CYBER%20SECURITY%20E-certificate.jpg)
+![Cyber Security certificate](https://github.com/saidegala/certificates/blob/main/NAGA%20SAI%20SABARINDEGALA-CYBER%20SECURITY%20E-certificate.pdf)
 
 ![Introduction to Python certificate](https://github.com/saidegala/certificates/blob/main/NAGA%20SAI%20SABARINDEGALA-INTRODUCTION%20TO%20-certificate.jpg)
 
@@ -28,7 +28,7 @@ Welcome to my GitHub repository! This repository contains images of the followin
 
 ![Chariot Certificate](https://github.com/saidegala/certificates/blob/main/chariotcertificate.jpg)
 
-![Cyber Security PDF](https://github.com/saidegala/certificates/blob/main/cyber.jpg)
+![Cyber Security PDF](https://github.com/saidegala/certificates/blob/main/NAGA%20SAI%20SABARINDEGALA-INTRODUCTION%20TO%20-certificate.pdf)
 
 ![Data Structures with Python](https://github.com/saidegala/certificates/blob/main/python%20data%20structures.jpg)
 
